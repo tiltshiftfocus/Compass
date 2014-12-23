@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Compass</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="compass_base">Compass Base</string>
+    <string name="compass_arrow">Compass Arrow</string>
+    <string name="degree">-</string>
+    <string name="today_date">Date</string>
+    <string name="time_now">Time</string>
+
+</resources>
+
